@@ -15,7 +15,7 @@ This project is an automation test framework designed to interact with the Beyme
 ## Project Structure
 
 ```
-beymen-automation-hw/
+selenium-oop-project/
 ├── .idea/                      # IDE configuration files
 ├── src/
 │   ├── main/
