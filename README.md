@@ -76,6 +76,6 @@ selenium-oop-project/
 
 ## Contact
 
-- **Author**: Aziz Can Vural
+- **Author**: Aziz Can Varol
 - **GitHub**: [azizcanv](https://github.com/azizcanv)
 - **Email**: [azizcanv@gmail.com](mailto:azizcanv@gmail.com)
